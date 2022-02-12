@@ -1,1 +1,0 @@
-# LaunchX_katas
